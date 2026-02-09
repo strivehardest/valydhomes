@@ -70,7 +70,7 @@ export default function PropertyDetailsPage({
               $ {loading ? '...' : basePriceUSD.toLocaleString(undefined, { maximumFractionDigits: 2 })}
             </span>
             {currency !== 'USD' && (
-              <span className="text-lg md:text-2xl text-white ml-2 font-normal font-serif bg-yellow-100/80 text-gray-900 px-2 py-0.5 rounded">
+              <span className="text-lg md:text-2xl ml-2 font-normal font-serif bg-yellow-100/80 text-gray-900 px-2 py-0.5 rounded">
                 {SYMBOLS[currency]} {displayPrice.toLocaleString(undefined, { maximumFractionDigits: 2 })}
               </span>
             )}
