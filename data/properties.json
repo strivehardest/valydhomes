@@ -1,0 +1,173 @@
+{
+  "properties": [
+    {
+      "id": "prop-001",
+      "title": "Modern 3-Bedroom House in East Legon",
+      "type": "house",
+      "status": "available",
+      "price": {
+        "ghs": 850000,
+        "usd": 55000
+      },
+      "location": {
+        "area": "East Legon",
+        "city": "Accra",
+        "region": "Greater Accra",
+        "coordinates": [5.6037, -0.1870]
+      },
+      "features": {
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking": 2,
+        "landSize": "0.25 acres",
+        "yearBuilt": 2023
+      },
+      "images": [
+        "/images/properties/prop-001.jpg",
+        "/images/properties/prop-001/living.jpg",
+        "/images/properties/prop-001/kitchen.jpg",
+        "/images/properties/prop-001/bedroom.jpg"
+      ],
+      "description": "Beautiful modern home in the heart of East Legon. This spacious 3-bedroom house features contemporary design, high-quality finishes, and is situated in one of Accra's most sought-after neighborhoods. Perfect for families looking for comfort and prestige.",
+      "amenities": [
+        "24hr security",
+        "Paved roads",
+        "Street lighting",
+        "Water supply",
+        "Electricity",
+        "Gated community"
+      ],
+      "verified": true,
+      "documents": [
+        "Land Title Certificate",
+        "Survey Plan",
+        "Building Permit",
+        "Occupancy Certificate"
+      ],
+      "featured": true
+    },
+    {
+      "id": "prop-002",
+      "title": "Luxury 4-Bedroom Villa with Pool",
+      "type": "villa",
+      "status": "available",
+      "price": {
+        "ghs": 1200000,
+        "usd": 78000
+      },
+      "location": {
+        "area": "Spintex",
+        "city": "Accra",
+        "region": "Greater Accra",
+        "coordinates": [5.6524, -0.1046]
+      },
+      "features": {
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking": 3,
+        "landSize": "0.4 acres",
+        "yearBuilt": 2024
+      },
+      "images": [
+        "/images/properties/prop-002.jpg",
+        "/images/properties/prop-002/pool.webp",
+        "/images/properties/prop-002/interior.jpg"
+      ],
+      "description": "Stunning luxury villa featuring a private swimming pool, spacious rooms, and premium finishes throughout. Located in the rapidly developing Spintex area with easy access to the motorway.",
+      "amenities": [
+        "Swimming pool",
+        "24hr security",
+        "Backup generator",
+        "Water supply",
+        "Electricity",
+        "Garden space",
+        "Modern kitchen"
+      ],
+      "verified": true,
+      "documents": [
+        "Land Title Certificate",
+        "Survey Plan",
+        "Building Permit"
+      ],
+      "featured": true
+    },
+    {
+      "id": "prop-003",
+      "title": "Modern 2-Bedroom Apartment in Oyarifa",
+      "type": "apartment",
+      "status": "available",
+      "price": {
+        "ghs": 320000,
+        "usd": 21000
+      },
+      "location": {
+        "area": "Oyarifa",
+        "city": "Accra",
+        "region": "Greater Accra",
+        "coordinates": [5.7147, -0.1396]
+      },
+      "features": {
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parking": 1,
+        "floorNumber": 2
+      },
+      "images": [
+        "/images/properties/prop-003.jpg",
+        "/images/properties/prop-003/view.jpg"
+      ],
+      "description": "Modern 2-bedroom apartment in a secure complex in Oyarifa. Features spacious living areas, two bathrooms, and a dedicated parking spot. Ideal for small families or professionals seeking comfort and convenience in a growing neighborhood.",
+      "amenities": [
+        "24hr security",
+        "Water supply",
+        "Electricity",
+        "Parking space",
+        "Balcony"
+      ],
+      "verified": true,
+      "documents": [
+        "Deed of Assignment",
+        "Leasehold Agreement"
+      ],
+      "featured": true
+    },
+    {
+      "id": "prop-004",
+      "title": "2-Bedroom Apartment in Tema",
+      "type": "apartment",
+      "status": "available",
+      "price": {
+        "ghs": 450000,
+        "usd": 29000
+      },
+      "location": {
+        "area": "Community 25",
+        "city": "Tema",
+        "region": "Greater Accra",
+        "coordinates": [5.6698, -0.0166]
+      },
+      "features": {
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parking": 1,
+        "floorNumber": 3
+      },
+      "images": [
+        "/images/properties/prop-004.jpg"
+      ],
+      "description": "Modern 2-bedroom apartment in a well-maintained complex in Tema. Ideal for young professionals or small families.",
+      "amenities": [
+        "Elevator",
+        "Security",
+        "Water supply",
+        "Backup generator"
+      ],
+      "verified": true,
+      "documents": [
+        "Deed of Assignment",
+        "Leasehold Agreement"
+      ],
+      "featured": false
+    }
+  ]
+}
