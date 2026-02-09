@@ -67,7 +67,7 @@ export default function IntroSection() {
               <img
                 src="/logo.png"
                 alt="VALYD Homes & Property"
-                className="h-16 md:h-20 w-auto mx-auto mb-6"
+                className="h-28 md:h-36 w-auto mx-auto mb-8"
               />
               <p className="text-gray-400 text-[10px] tracking-[0.3em] uppercase">
                 Accra, Ghana

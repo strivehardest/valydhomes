@@ -55,12 +55,12 @@ export default function Footer() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8">
           
           {/* Logo & Brand Section */}
-          <div className="lg:col-span-4 flex flex-col">
-            <Link href="/" className="inline-block mb-6">
+          <div className="lg:col-span-4 flex flex-col items-center justify-center">
+            <Link href="/" className="inline-block mb-8">
               <img 
                 src="/logo.png" 
                 alt="VALYD Homes & Property" 
-                className="h-10 w-auto brightness-0 invert" 
+                className="h-32 w-auto brightness-0 invert mx-auto" 
               />
             </Link>
               <p className="text-white/60 text-base md:text-lg leading-relaxed mb-8 max-w-sm">

@@ -68,13 +68,13 @@ export default function Header() {
             <Link 
               href="/" 
               className="absolute left-1/2 transform -translate-x-1/2 flex items-center justify-center"
-              style={{height: '40px'}}
+              style={{height: '56px'}}
             >
               <img
                 src="/logo.png"
                 alt="VALYD Homes & Property Logo"
-                className={`h-8 w-auto md:h-16 ${!scrolled ? 'filter brightness-0 invert' : ''}`}
-                style={{maxHeight: '64px'}}
+                className={`h-10 w-auto md:h-20 ${!scrolled ? 'filter brightness-0 invert' : ''}`}
+                style={{maxHeight: '80px'}}
               />
             </Link>
             {/* Right - Contact Button */}

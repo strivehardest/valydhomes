@@ -31,18 +31,18 @@ export default function Hero() {
         <div className="absolute inset-0 bg-black/40" />
       </div>
 
-      {/* Centered Brand Content - Kempinski Style */}
+      {/* Centered Brand Content*/}
       <div className="relative z-10 h-full flex flex-col items-center justify-center px-6">
-        {/* Small Crest/Logo - Like Kempinski's crown */}
+        {/* Small Crest/Logo */}
         <motion.div
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.3 }}
-          className="mb-6"
+          className="mb-8"
         >
           <svg 
-            width="40" 
-            height="40" 
+            width="72" 
+            height="72" 
             viewBox="0 0 40 40" 
             fill="none" 
             className="text-white"
@@ -56,7 +56,7 @@ export default function Hero() {
           </svg>
         </motion.div>
 
-        {/* Brand Name - Large Text Like Kempinski */}
+        {/* Brand Name */}
         <motion.div
           initial={{ opacity: 0, y: -30 }}
           animate={{ opacity: 1, y: 0 }}
