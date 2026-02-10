@@ -90,16 +90,7 @@ export default function Footer() {
                 <FaTiktok className="h-4 w-4" />
               </a>
               <a 
-                href="https://wa.me/233508474041" 
-                className="w-10 h-10 border border-white/20 flex items-center justify-center hover:bg-white hover:text-gray-900 transition-all duration-300" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                aria-label="WhatsApp"
-              >
-                <FaWhatsapp className="h-4 w-4" />
-              </a>
-              <a 
-                href="https://wa.me/233248582353" 
+                href="https://wa.me/233275847041" 
                 className="w-10 h-10 border border-white/20 flex items-center justify-center hover:bg-white hover:text-gray-900 transition-all duration-300" 
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -163,13 +154,13 @@ export default function Footer() {
           <div className="lg:col-span-4">
             <h4 className="text-xs uppercase tracking-[0.2em] text-white/50 mb-6">Contact</h4>
             <div className="space-y-4 mb-8">
-                <a href="tel:0508474041" className="flex items-center gap-3 text-white/80 hover:text-white transition-colors text-base md:text-lg">
+                <a href="tel:+233508474041" className="flex items-center gap-3 text-white/80 hover:text-white transition-colors text-base md:text-lg">
                 <Phone className="w-4 h-4 text-white/50" />
-                0508474041
+                +233508474041
               </a>
-              <a href="tel:0248582353" className="flex items-center gap-3 text-white/80 hover:text-white transition-colors text-base md:text-lg">
+              <a href="tel:+233248582353" className="flex items-center gap-3 text-white/80 hover:text-white transition-colors text-base md:text-lg">
                 <Phone className="w-4 h-4 text-white/50" />
-                0248582353
+                +233248582353
               </a>
                 <a href="mailto:info@valydhomes.com" className="flex items-center gap-3 text-white/80 hover:text-white transition-colors text-base md:text-lg">
                 <Mail className="w-4 h-4 text-white/50" />

@@ -372,18 +372,18 @@ export default function DiasporaPage() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
-                  href="tel:0508474041"
+                  href="tel:+233508474041"
                   className="px-8 py-4 bg-gray-900 text-white font-semibold text-sm uppercase tracking-wider hover:bg-gray-800 transition-all duration-300 min-w-[200px] flex items-center justify-center gap-2"
                 >
                   <Phone className="h-4 w-4" />
-                  Schedule a Call (0508474041)
+                  Schedule a Call (+233 50 847 4041)
                 </a>
                 <a
-                  href="tel:0248582353"
+                  href="tel:+233248582353"
                   className="px-8 py-4 bg-gray-900 text-white font-semibold text-sm uppercase tracking-wider hover:bg-gray-800 transition-all duration-300 min-w-[200px] flex items-center justify-center gap-2"
                 >
                   <Phone className="h-4 w-4" />
-                  Schedule a Call (0248582353)
+                  Schedule a Call (+233 24 858 2353)
                 </a>
                 <Link
                   href="mailto:info@valydhomes.com"

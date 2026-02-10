@@ -170,13 +170,13 @@ export default function Header() {
                 <div>
                   <p className="text-white/40 text-[10px] uppercase tracking-[0.2em] mb-6">Contact</p>
                   <div className="space-y-4">
-                    <a href="tel:0508474041" className="flex items-center gap-4 text-white/80 hover:text-white transition-colors group">
+                    <a href="tel:+233508474041" className="flex items-center gap-4 text-white/80 hover:text-white transition-colors group">
                       <Phone className="w-4 h-4 text-white/40 group-hover:text-white transition-colors" />
-                      <span className="text-sm">0508474041</span>
+                      <span className="text-sm">+233 50 847 4041</span>
                     </a>
-                    <a href="tel:0248582353" className="flex items-center gap-4 text-white/80 hover:text-white transition-colors group">
+                    <a href="tel:+233248582353" className="flex items-center gap-4 text-white/80 hover:text-white transition-colors group">
                       <Phone className="w-4 h-4 text-white/40 group-hover:text-white transition-colors" />
-                      <span className="text-sm">0248582353</span>
+                      <span className="text-sm">+233 24 858 2353</span>
                     </a>
                     <a href="mailto:info@valydhomes.com" className="flex items-center gap-4 text-white/80 hover:text-white transition-colors group">
                       <Mail className="w-4 h-4 text-white/40 group-hover:text-white transition-colors" />
