@@ -38,11 +38,18 @@ export default function IntroSection() {
                 <span className="text-sm">info@valydhomes.com</span>
               </a>
               <a 
-                href="tel:+233270721345"
+                href="tel:0508474041"
                 className="flex items-center gap-3 text-gray-600 hover:text-gray-900 transition-colors"
               >
                 <Phone className="w-4 h-4" />
-                <span className="text-sm">+233 27 072 1345</span>
+                <span className="text-sm">0508474041</span>
+              </a>
+              <a 
+                href="tel:0248582353"
+                className="flex items-center gap-3 text-gray-600 hover:text-gray-900 transition-colors"
+              >
+                <Phone className="w-4 h-4" />
+                <span className="text-sm">0248582353</span>
               </a>
             </div>
 
